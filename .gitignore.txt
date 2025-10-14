@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .vs/
 bin/
 obj/
@@ -5,3 +6,24 @@ obj/
 *.suo
 *.cache
 *.vsidx
+=======
+# Visual Studio
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Build results
+[Bb]in/
+[Oo]bj/
+Debug/
+Release/
+
+# Others
+*.log
+*.db
+*.cache
+*.pdb
+*.exe
+*.dll
+>>>>>>> a5b3677 (Create Domain Models and Fixed the Git)
