@@ -8,7 +8,7 @@
         public double LengthInKm { get; set; }
         public string? WalkImageUrl { get; set; }
 
-        // These two properties for the foreign keys
+        // These two properties are foreign keys
         public Guid DifficultyId { get; set; }
         public Guid RegionId { get; set; }
 
